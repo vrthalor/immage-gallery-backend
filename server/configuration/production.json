@@ -1,0 +1,7 @@
+{
+    "server":{
+        "static": {
+            "directory": "./public/"
+        }
+    }
+}

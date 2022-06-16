@@ -1,0 +1,13 @@
+mongodb database
+
+username - nits_solutions
+password - Nits@123
+
+
+mongodb
+usernamm : nits
+password : JJ3%#DHs#F7s777sg
+
+db.createUser({user:"nits",pwd: "JJ3%#DHs#F7s777sg",roles: [ { role: "readWrite", db: "nits_solutions" } ]})
+db.auth('nits','JJ3%#DHs#F7s777sg')
+colletions : nits_solutions
